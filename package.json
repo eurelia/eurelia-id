@@ -1,0 +1,45 @@
+{
+  "name": "eurelia-id",
+  "version": "1.1.2",
+  "description": "make brighter future",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "dependencies": {
+    "eurelia-id": "^0.1.0",
+    "next": "14.1.1",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eurelia/eurelia-id.git"
+  },
+  "keywords": [
+    "e"
+  ],
+  "author": "eurelia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eurelia/eurelia-id/issues"
+  },
+  "homepage": "https://github.com/eurelia/eurelia-id#readme",
+  "dependencies": {
+    "eurelia-id": "^1.0.0"
+  },
+  "devDependencies": {}
+}
